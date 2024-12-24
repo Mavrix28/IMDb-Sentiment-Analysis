@@ -1,6 +1,6 @@
 ## IMDB Review 
 
-## IMDb Sentiment Analysis...
+## IMDb Sentiment Analysis..
 
 A machine learning project to analyze and predict the sentiment (positive or negative) of IMDb movie reviews. This project demonstrates the use of natural language processing (NLP) techniques and machine learning algorithms.
 
